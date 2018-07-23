@@ -30,7 +30,7 @@
  date = gets.chomp
  
  puts "what time is your party"
- party_time = gets.chomp
+ time = gets.chomp
  
  puts "What is the host's name?"
  host_name = gets.chomp
