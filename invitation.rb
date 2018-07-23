@@ -41,4 +41,4 @@
 You have been invited to #{party_name} on #{date} at #{time}.
 
 Sincerely,
-#{host_name}""
+#{host_name}"
