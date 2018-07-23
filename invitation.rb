@@ -23,7 +23,7 @@
  puts "What is your name?"
  guest_name = gets.chomp
  
- puts guest_name
+
  
  
 
