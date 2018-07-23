@@ -23,7 +23,17 @@
  puts "What is your name?"
  guest_name = gets.chomp
  
-
+ puts "What is your party's name?"
+ party_name = gets.chomp
+ 
+ puts "When is your party?"
+ date = gets.chomp
+ 
+ puts "what time is your party"
+ party_time = gets.chomp
+ 
+ puts "What is the host's name?"
+ host_name = gets.chomp
  
  
 
