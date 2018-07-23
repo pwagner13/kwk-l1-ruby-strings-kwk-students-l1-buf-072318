@@ -36,7 +36,7 @@
  host_name = gets.chomp
  
  
-"Dear #{guest_name},
+puts "Dear #{guest_name},
 
 You have been invited to #{party_name} on #{date} at #{time}.
 
