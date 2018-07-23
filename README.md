@@ -8,6 +8,7 @@ put = What is your name?
 guest_name = gets.chomp
 
 Put= 
+* guest_name
 * party_name
 * date
 * time
